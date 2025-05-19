@@ -1,0 +1,1 @@
+Testando para saver se um commit dessa branch vai ativar o commit automatico
