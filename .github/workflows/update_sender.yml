@@ -2,6 +2,7 @@ name: alert submodule alteration
 
 on:
   push:
+    branches: [ main ]
   repository_dispatch:
   workflow_dispatch:
 
